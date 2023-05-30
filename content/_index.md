@@ -163,7 +163,7 @@ sections:
       columns: '2'
   - block: experience
     content:
-      title: Industry experience
+      title: 'Industry experience'
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
