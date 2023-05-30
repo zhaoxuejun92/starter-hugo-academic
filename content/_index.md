@@ -47,7 +47,7 @@ sections:
         - title: Data Scientist
           company: Verizon
           company_url: ''
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Ashburn, Virginia
           date_start: '2021-01-01'
           date_end: ''
@@ -60,7 +60,7 @@ sections:
         - title: Data Scientist Intern
           company: Google
           company_url: ''
-          company_logo: 
+          # company_logo: org-x
           location: Sunnyvale, California
           date_start: '2022-07-15'
           date_end: '2022-09-31'
