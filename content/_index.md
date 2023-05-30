@@ -93,7 +93,7 @@ sections:
           date_start: '2020-01-01'
           description: 
           organization: Purdue University
-          organization_url: https://www.edx.org
+          organization_url: 
           title: Teaching Assistant of Operations Management
           url: 
     design:
@@ -162,6 +162,37 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Honors & Awards'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: 
+          date_end: '2020-01-01'
+          date_start: '2020-12-31'
+          description: 
+          organization: Purdue University
+          organization_url: 
+          title: Krannert Doctoral Research Funds
+          url: ''
+        - certificate_url: 
+          date_end: '2020-05-01'
+          date_start: '2020-08-01'
+          description: 
+          organization: Purdue University
+          organization_url: 
+          title: Krannert Certificate for Outstanding Teaching
+          url: 
+    design:
+      columns: '2'
   # - block: contact
   #   id: contact
   #   content:
