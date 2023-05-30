@@ -56,12 +56,11 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - 
+projects = []
 ---
 
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Learning to Price Supply Chain Contracts Against a Learning Retailer
 {{% /callout %}}
 
 Slides can be added in a few ways:
