@@ -1,12 +1,13 @@
 ---
-title: 'Learning to Price Supply Chain Contracts Under a Learning Retailer'
+title: 'Learning to Price Supply Chain Contracts Against a Learning Retailer'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - admin2
+  - Xuejun Zhao
+  - Ruihao Zhu
+  - William B. Haskell
 
 # Author notes (optional)
 author_notes:
