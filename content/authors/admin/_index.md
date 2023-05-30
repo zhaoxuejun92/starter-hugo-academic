@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Xuejun Zhao is a Ph.D. in Supply Chain & Operations Management from Purdue University. She is advised by Dr. William B. Haskell. Her research interest includes decision making under uncertainty, data-driven analytics in Operations Managent and Pharmaceutical Supply Chain.
+Xuejun Zhao is a Ph.D. in Supply Chain & Operations Management from Purdue University. She is advised by Dr. William B. Haskell, Dr. George Shanthikumar, Dr. Annabelle Feng, and Dr. Mengshi Lu. Her research interest includes decision making under uncertainty, data-driven analytics in Operations Managent and Pharmaceutical Supply Chain.
 {style="text-align: justify;"}
