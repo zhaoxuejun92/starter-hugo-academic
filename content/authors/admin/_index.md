@@ -40,7 +40,7 @@ education:
     - course: M.S. in Mechanical Engineering
       institution: Purdue University
       year: 2017
-    - course: B.E. in Enery, Power System and Automation
+    - course: B.E. in Energy, Power System and Automation
       institution: Xi'an Jiaotong University
       year: 2015
 
@@ -49,15 +49,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: zhao630@purdue.edu
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/XuejunZhao5
-    label: Follow me on Twitter
-    display:
-      header: true
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: zhao630@purdue.edu
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/XuejunZhao5
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=KB6Q59MAAAAJ&hl=en
@@ -81,5 +81,7 @@ email: ''
 highlight_name: true
 ---
 
-Xuejun Zhao is a Ph.D. in Supply Chain & Operations Management from Purdue University. She is advised by Dr. William B. Haskell, Dr. George Shanthikumar, Dr. Annabelle Feng, and Dr. Mengshi Lu. Her research interest includes decision making under uncertainty, data-driven analytics in Operations Managent and Pharmaceutical Supply Chain.
+Xuejun is a Ph.D. in Supply Chain & Operations Management from Purdue University. She is advised by Dr. William B. Haskell, Dr. George Shanthikumar, Dr. Annabelle Feng, and Dr. Mengshi Lu. Her research interest includes decision making under uncertainty, data-driven analytics in Operations Managent and Pharmaceutical Supply Chain.
+
+Xuejun will join UNC Charlotte as an Assistant Professor in Information System and Operations Management in August, 2023.
 {style="text-align: justify;"}
