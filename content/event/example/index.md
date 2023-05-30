@@ -1,5 +1,5 @@
 ---
-title: Learning to Price Supply Chain Contracts Against a Learning Retailer
+title: POMS Annual Conference 2022
 
 event: POMS Annual Conference 2022
 event_url: 
@@ -56,17 +56,10 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects:
+  - 
 ---
 
 {{% callout note %}}
 Learning to Price Supply Chain Contracts Against a Learning Retailer
 {{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
