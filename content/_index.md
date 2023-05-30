@@ -163,7 +163,7 @@ sections:
       columns: '2'
   - block: experience
     content:
-      title: 'Industry experience'
+      title: 'Industry Eperience'
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -180,7 +180,7 @@ sections:
           # location: Ashburn, Virginia
           date_start: '2021-01-01'
           date_end: ''
-          description: 
+          description: ''
         - title: Data Scientist Intern
           company: Google
           # company_url: ''
@@ -188,7 +188,7 @@ sections:
           # location: Sunnyvale, California
           date_start: '2022-07-15'
           date_end: '2022-09-31'
-          description: 
+          description: ''
     design:
       columns: '2'
   # - block: contact
