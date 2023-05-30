@@ -83,5 +83,5 @@ highlight_name: true
 
 Xuejun is a Ph.D. in Supply Chain & Operations Management from Purdue University. She is advised by Dr. William B. Haskell, Dr. George Shanthikumar, Dr. Annabelle Feng, and Dr. Mengshi Lu. Her research interest includes decision making under uncertainty, data-driven analytics in Operations Managent and Pharmaceutical Supply Chain.
 
-Xuejun will join UNC Charlotte as an Assistant Professor in Information System and Operations Management in August, 2023.
+Xuejun will join UNC Charlotte as an Assistant Professor in Information System and Operations Management in August.
 {style="text-align: justify;"}
