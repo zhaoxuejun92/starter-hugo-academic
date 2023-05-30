@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wang 王爱丽
+title: Xuejun Zhao 赵雪珺
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wang
+first_name: Xuejun
+last_name: Zhao
 
 # Status emoji
 status:
@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. in Supply Chain & Operations Management
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Purdue University
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include decision making under uncertainty, data-driven analytics in OM applications and pharmaceutical supply chain
 
 # Interests to show in About widget
 interests:
@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xuejun Zhao is a Ph.D. in Supply Chain & Operations Management from Purdue University. 
 {style="text-align: justify;"}
