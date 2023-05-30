@@ -49,16 +49,21 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Ashburn, Virginia
-          date_start: '2022-12-01'
-          date_end: '2022-05-01'
-          description: 
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
         - title: Data Scientist Intern
           company: Google
           company_url: ''
           company_logo: org-x
           location: Sunnyvale, California
-          date_start: '2022-07-14'
-          date_end: '2022-09-31'
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
           description: 
     design:
       columns: '2'
