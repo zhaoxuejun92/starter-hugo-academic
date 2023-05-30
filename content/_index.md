@@ -47,11 +47,16 @@ sections:
         - title: Data Scientist
           company: Verizon
           company_url: ''
-          company_logo: ''
+          company_logo: 'org-gc'
           location: Ashburn, Virginia
           date_start: '2021-01-01'
           date_end: ''
-          description:
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
         - title: Data Scientist Intern
           company: Google
           company_url: ''
