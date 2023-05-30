@@ -69,6 +69,7 @@ sections:
   #   design:
   #     columns: '2'
   - block: accomplishments
+    id: teaching
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Teaching Experience'
@@ -164,6 +165,7 @@ sections:
       columns: '2'
       view: compact
   - block: accomplishments
+    id: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Honors & Awards'
