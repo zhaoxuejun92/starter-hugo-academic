@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Alice Wang 王爱丽
 
 # Full name (for SEO)
 first_name: Alice
-last_name: Wu
+last_name: Wang
 
 # Status emoji
 status:
@@ -25,7 +25,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-research interests:
+interests:
   - Decision Making Under Uncertainty
   - Robust Optimization
   - Online Learning
