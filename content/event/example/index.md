@@ -17,12 +17,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-04'
-date_end: '2022-04'
+# date: '2022-04-01T00:00:00Z'
+# date_end: '2022-04-01T00:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-05-30'
+publishDate: '2022-12-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -61,5 +61,5 @@ projects:
 ---
 
 {{% callout note %}}
-Learning to Price Supply Chain Contracts Against a Learning Retailer
+Learning to Price Supply Chain Contracts Against a Learning Retailer, Presenter
 {{% /callout %}}
