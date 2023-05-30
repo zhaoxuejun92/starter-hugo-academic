@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: Publications
     url: '#posts'
     weight: 20
   - name: Projects
@@ -25,6 +25,6 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
- - name: CV
-   url: uploads/resume.pdf
-   weight: 70
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
