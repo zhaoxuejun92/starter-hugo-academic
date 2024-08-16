@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor in Business Information System and Operation Management, UNC Charlotte
+role: Assistant Professor in Business Information System and Operation Management
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Purdue University
+  - name: UNC Charlotte
     url: 
 
 # Short bio (displayed in user profile at end of posts)
