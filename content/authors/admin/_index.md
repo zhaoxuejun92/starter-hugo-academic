@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. in Supply Chain & Operations Management
+role: Assistant Professor in Business Information System and Operation Management, UNC Charlotte
 
 # Organizations/Affiliations to show in About widget
 organizations:
