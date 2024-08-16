@@ -82,4 +82,3 @@ highlight_name: true
 ---
 
 Hello! Welcome to my site! I got my Ph.D. in Supply Chain & Operations Management from Purdue University. My research interest includes decision making under uncertainty, data-driven analytics in Operations Managent and Pharmaceutical Supply Chain.
-{style="text-align: justify;"}
