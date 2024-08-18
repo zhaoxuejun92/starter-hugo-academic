@@ -49,7 +49,7 @@ sections:
       items:
         - certificate_url: 
           date_end: ‘’
-          date_start: ‘2024-01-15’
+          date_start: '2024-01-15'
           description: Spring 2024
           organization: University of North Carolina at Charlotte
           organization_url: 
