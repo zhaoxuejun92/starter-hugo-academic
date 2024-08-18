@@ -1,10 +1,10 @@
 ---
 title: Reimbursement Policy and Drug Shortages
 
-event: INFORMS Annual Conference 2020
+event: INFORMS Annual Conference 2020 
 event_url: 
 
-location: INFORMS Annual Conference 2020
+location: INFORMS Annual Conference 2020 | University of North Carolina at Charlotte
 address:
   street: 
   city: 
