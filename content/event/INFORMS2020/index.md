@@ -1,5 +1,5 @@
 ---
-title: INFORMS Annual Conference 2020
+title: Reimbursement Policy and Drug Shortages
 
 event: INFORMS Annual Conference 2020
 event_url: 
@@ -60,6 +60,6 @@ projects:
 
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Reimbursement Policy and Drug Shortages
-{{% /callout %}}
+{{% /callout %}} -->
