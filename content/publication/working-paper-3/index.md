@@ -27,7 +27,7 @@ publishDate: ''
 publication_types: []
 
 # Publication name and optional abbreviated publication name.
-publication: 'major revision in Management Science'
+publication: 'Accepted to Management Science'
 publication_short: 
 
 abstract: 
