@@ -48,16 +48,16 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: 
-          # date_end: 
-          # date_start: 
+          date_end: ‘’
+          date_start: ‘’
           description: Fall 2023, Spring 2024, Fall 2024
           organization: University of North Carolina at Charlotte
           organization_url: 
           title: Operations Planning and Control
           url: ''
         - certificate_url: 
-          # date_end: 
-          # date_start: 
+          date_end: ‘’
+          date_start: ‘’
           description: Spring 2024
           organization: University of North Carolina at Charlotte
           organization_url: 
@@ -71,14 +71,6 @@ sections:
           organization_url: 
           title: Instructor of Operations Managmenet
           url: ''
-        - certificate_url: 
-          date_end: '2020-05-01'
-          date_start: '2020-01-01'
-          description: 
-          organization: Purdue University
-          organization_url: 
-          title: Teaching Assistant of Operations Management
-          url: 
     design:
       columns: '2'
   # - block: collection
@@ -177,36 +169,36 @@ sections:
           url: 
     design:
       columns: '2'
-  - block: experience
-    content:
-      title: 'Industry Eperience'
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Data Scientist
-          company: Verizon
-          company_url: ''
-          company_logo: ''
-          location: Ashburn, Virginia
-          date_start: '2021-01-01'
-          date_end: ''
-          description: ''
-        - title: Data Scientist Intern
-          company: Google
-          company_url: ''
-          company_logo: ''
-          location: Sunnyvale, California
-          date_start: '2022-07-15'
-          date_end: '2022-09-30'
-          description: ''
-    design:
-      columns: '2'
+  # - block: experience
+  #   content:
+  #     title: 'Industry Eperience'
+  #     # Date format for experience
+  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: Data Scientist
+  #         company: Verizon
+  #         company_url: ''
+  #         company_logo: ''
+  #         location: Ashburn, Virginia
+  #         date_start: '2023-01-01'
+  #         date_end: '2023-05-01'
+  #         description: ''
+  #       - title: Data Scientist Intern
+  #         company: Google
+  #         company_url: ''
+  #         company_logo: ''
+  #         location: Sunnyvale, California
+  #         date_start: '2022-07-15'
+  #         date_end: '2022-09-30'
+  #         description: ''
+  #   design:
+  #     columns: '2'
   # - block: contact
   #   id: contact
   #   content:
