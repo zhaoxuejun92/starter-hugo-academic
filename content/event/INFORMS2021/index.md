@@ -1,10 +1,10 @@
 ---
-title: INFORMS Annual Conference 2021
+title: Supply Chain Contracts in the Small Data Regime
 
 event: INFORMS Annual Conference 2021
 event_url: 
 
-location: Anaheim, California
+location: INFORMS Annual Conference 2021
 address:
   street: 
   city: 
@@ -22,7 +22,7 @@ abstract:
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2021-10-24T00:00:00Z'
+publishDate: Updated '2024-08-18'
 
 authors: []
 tags: []
