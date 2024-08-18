@@ -66,7 +66,7 @@ sections:
         - certificate_url: 
           date_end: '2020-06-15'
           date_start: '2020-05-15'
-          description: 
+          description: Summer 2020
           organization: Purdue University
           organization_url: 
           title: Instructor of Operations Managmenet
