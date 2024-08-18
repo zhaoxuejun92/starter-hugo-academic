@@ -49,7 +49,7 @@ sections:
       items:
         - certificate_url: 
           date_end: ‘’
-          date_start: ‘’
+          date_start: ‘2023-08-15’
           description: Fall 2023, Spring 2024, Fall 2024
           organization: University of North Carolina at Charlotte
           organization_url: 
@@ -57,7 +57,7 @@ sections:
           url: ''
         - certificate_url: 
           date_end: ‘’
-          date_start: ‘’
+          date_start: ‘2024-01-15’
           description: Spring 2024
           organization: University of North Carolina at Charlotte
           organization_url: 
