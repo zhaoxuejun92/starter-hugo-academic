@@ -1,10 +1,10 @@
 ---
 title: Supply Chain Contracts in the Small Data Regime
 
-event: INFORMS Annual Conference 2021
+event: INFORMS Annual Conference 2023
 event_url: 
 
-location: INFORMS Annual Conference 2021
+location: INFORMS Annual Conference 2023
 address:
   street: 
   city: 
@@ -22,7 +22,7 @@ abstract:
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-08-18'
+# publishDate: '2024-08-18'
 
 authors: []
 tags: []
