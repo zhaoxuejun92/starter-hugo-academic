@@ -187,7 +187,7 @@ sections:
           company_logo: ''
           location: Sunnyvale, California
           date_start: '2022-07-15'
-          date_end: '2022-09-31'
+          date_end: '2022-09-30'
           description: ''
     design:
       columns: '2'
