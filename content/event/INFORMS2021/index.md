@@ -19,16 +19,16 @@ abstract:
 #   End time can optionally be hidden by prefixing the line with `#`.
 # date: '2022-04-01T00:00:00Z'
 # date_end: '2022-04-01T00:00:00Z'
-all_day: false
+# all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: Updated '2024-08-18'
+# publishDate: '2024-08-18'
 
 # authors: []
 # tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+# featured: false
 
 # image:
 #   caption: ''
