@@ -28,7 +28,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: ''
@@ -61,5 +61,5 @@ projects:
 ---
 
 {{% callout note %}}
-Reimbursement Policy and Drug Shortages, Presenter
+Reimbursement Policy and Drug Shortages
 {{% /callout %}}

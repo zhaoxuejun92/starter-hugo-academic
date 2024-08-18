@@ -152,16 +152,16 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: 
-          date_end: '2020-01-01'
-          date_start: '2020-12-31'
+          date_end: '2020-12-31'
+          date_start: '2020-01-01'
           description: 
           organization: Purdue University
           organization_url: 
           title: Krannert Doctoral Research Funds
           url: ''
         - certificate_url: 
-          date_end: '2020-05-01'
-          date_start: '2020-08-01'
+          date_end: '2020-08-01'
+          date_start: '2020-05-01'
           description: 
           organization: Purdue University
           organization_url: 
