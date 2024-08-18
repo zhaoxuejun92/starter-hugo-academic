@@ -22,10 +22,10 @@ abstract:
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: '2024-08-18'
+publishDate: Updated '2024-08-18'
 
-authors: []
-tags: []
+# authors: []
+# tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
