@@ -4,7 +4,7 @@ title: Learning to Price Supply Chain Contracts Against a Learning Retailer
 event: POMS Annual Conference 2022
 event_url: 
 
-location: POMS Annual Conference 2022, 2024
+location: POMS Annual Conference 2022, 2024 | University of Wisconsin-Milwaukee | Santa Clara University | University of North Carolina at Charlotte | University of North Carolina at Chapel Hill
 address:
   street: 
   city: 
