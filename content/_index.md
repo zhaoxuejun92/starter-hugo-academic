@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: pub
     content:
-      title: Working Papers
+      title: Publication
       filters:
         folders:
           - publication
@@ -22,17 +22,17 @@ sections:
     design:
       columns: '2'
       view: citation
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
+  - block: collection
+    id: pub
+    content:
+      title: Working Paper
+      filters:
+        folders:
+          - working_papers
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: accomplishments
     id: teaching
     content:
