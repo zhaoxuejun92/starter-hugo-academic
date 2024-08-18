@@ -4,7 +4,7 @@ title: Reimbursement Policy and Drug Shortages
 event: INFORMS Annual Conference 2020
 event_url: 
 
-location: Online
+location: INFORMS Annual Conference 2020， 2024
 address:
   street: 
   city: 
@@ -22,7 +22,7 @@ abstract:
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2020-11-08T00:00:00Z'
+publishDate: 
 
 authors: []
 tags: []
