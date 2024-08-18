@@ -60,6 +60,6 @@ projects:
   - 
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Supply Chain Contracts in the Small Data Regime, Presenter
-{{% /callout %}}
+{{% /callout %}} -->
