@@ -49,19 +49,19 @@ sections:
       items:
         - certificate_url: 
           date_end: ‘’
+          date_start: ‘2024-01-15’
+          description: Spring 2024
+          organization: University of North Carolina at Charlotte
+          organization_url: 
+          title: Instructor of Operations Managmenet
+          url: ''
+        - certificate_url: 
+          date_end: ‘’
           date_start: ‘2023-08-15’
           description: Fall 2023, Spring 2024, Fall 2024
           organization: University of North Carolina at Charlotte
           organization_url: 
           title: Operations Planning and Control
-          url: ''
-        - certificate_url: 
-          date_end: ‘’
-          date_start: ‘2024-01-01’
-          description: Spring 2024
-          organization: University of North Carolina at Charlotte
-          organization_url: 
-          title: Instructor of Operations Managmenet
           url: ''
         - certificate_url: 
           date_end: '2020-06-15'
