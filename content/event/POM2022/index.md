@@ -1,10 +1,10 @@
 ---
-title: POMS Annual Conference 2022
+title: Learning to Price Supply Chain Contracts Against a Learning Retailer
 
 event: POMS Annual Conference 2022
 event_url: 
 
-location: Online
+location: POMS Annual Conference 2022, 2024
 address:
   street: 
   city: 
@@ -22,7 +22,7 @@ abstract:
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-04-21T00:00:00Z'
+publishDate: 
 
 authors: []
 tags: []
@@ -59,7 +59,7 @@ slides: ""
 projects:
   - 
 ---
-
+<!-- 
 {{% callout note %}}
 Learning to Price Supply Chain Contracts Against a Learning Retailer, Presenter
-{{% /callout %}}
+{{% /callout %}} -->
