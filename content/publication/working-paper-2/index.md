@@ -14,7 +14,7 @@ author_notes:
   - ''
   - ''
 
-date: '2022-06-01T00:00:00Z'
+date: '2023-06-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +27,7 @@ publishDate: ''
 publication_types: []
 
 # Publication name and optional abbreviated publication name.
-publication: 'major revision in Manufacturing & Service Operations Management'
+publication: 'Manufacturing & Service Operations Management'
 publication_short: 
 
 abstract: 
