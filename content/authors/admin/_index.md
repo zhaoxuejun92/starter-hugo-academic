@@ -18,7 +18,7 @@ role: Assitant Professor in Business Information Systems and Operations Manageme
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UNC Charlotte
+  - name: University of North Carolina at Charlotte
     url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -37,12 +37,12 @@ education:
     - course: Ph.D. in Supply Chain & Operations Management
       institution: Purdue University
       year: 2022
-    - course: M.S. in Mechanical Engineering
-      institution: Purdue University
-      year: 2017
-    - course: B.E. in Energy, Power System and Automation
-      institution: Xi'an Jiaotong University
-      year: 2015
+    # - course: M.S. in Mechanical Engineering
+    #   institution: Purdue University
+    #   year: 2017
+    # - course: B.E. in Energy, Power System and Automation
+    #   institution: Xi'an Jiaotong University
+    #   year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

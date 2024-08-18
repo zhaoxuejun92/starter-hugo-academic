@@ -27,7 +27,7 @@ publishDate: ''
 publication_types: []
 
 # Publication name and optional abbreviated publication name.
-publication: 'reject and resubmit in Management Science'
+publication: 'minor revision at Management Science'
 publication_short: 
 
 abstract: 

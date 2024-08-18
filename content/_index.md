@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Welcom to my site!
-date: 2022-10-24
+date: 2024-08-18
 type: landing
 
 sections:
@@ -47,6 +47,22 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: 
+          date_end: 
+          date_start: 
+          description: Fall 2023, Spring 2024, Fall 2024
+          organization: University of North Carolina at Charlotte
+          organization_url: 
+          title: Operations Planning and Control
+          url: ''
+        - certificate_url: 
+          date_end: 
+          date_start: 
+          description: Spring 2024
+          organization: University of North Carolina at Charlotte
+          organization_url: 
+          title: Instructor of Operations Managmenet
+          url: ''
         - certificate_url: 
           date_end: '2020-06-15'
           date_start: '2020-05-15'
