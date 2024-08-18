@@ -48,16 +48,16 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: 
-          date_end: 
-          date_start: 
+          # date_end: 
+          # date_start: 
           description: Fall 2023, Spring 2024, Fall 2024
           organization: University of North Carolina at Charlotte
           organization_url: 
           title: Operations Planning and Control
           url: ''
         - certificate_url: 
-          date_end: 
-          date_start: 
+          # date_end: 
+          # date_start: 
           description: Spring 2024
           organization: University of North Carolina at Charlotte
           organization_url: 
