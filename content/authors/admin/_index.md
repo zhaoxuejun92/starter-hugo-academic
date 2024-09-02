@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Assitant Professor in Business Information Systems and Operations Management
+role: Assistant Professor in Business Information Systems and Operations Management
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -81,5 +81,6 @@ email: ''
 highlight_name: true
 ---
 
-Hello! Welcome to my site! I got my Ph.D. in Supply Chain & Operations Management from Purdue University. My research interests include decision making under uncertainty, data-driven analytics in Operations Managent and Pharmaceutical Supply Chain. 
+Hello! Welcome to my site! I am an Assistant Professor in Business Information Systems and Operations Management at University of North Carolina, Charlotte.
+I got my Ph.D. in Supply Chain & Operations Management from Purdue University. My research interests include decision making under uncertainty, data-driven analytics in Operations Managent and Pharmaceutical Supply Chain. 
 
